@@ -34,4 +34,3 @@ Features
     * Text memory to allow temporary messages to be displayed
     * Toolbar with various options
     
-
